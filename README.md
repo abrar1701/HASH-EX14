@@ -1,4 +1,4 @@
-# Ex-14-Hash
+# Ex-14 | Hash
 ## AIM:
 To generate a simple hash of a given message using a custom hash function.
 
